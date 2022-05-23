@@ -1,0 +1,1 @@
+- 🌱 I’m currently learning stuff about MLOps and AudioML
